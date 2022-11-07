@@ -6,3 +6,4 @@
   Левченко Юлия - аналитик изъянов
 ## овсеп чурка
 ## https://github234.wordpress.com
+https://deepnote.com/workspace/zhupel-8ea627ea-8d53-41b7-8216-1be262d94ed8
