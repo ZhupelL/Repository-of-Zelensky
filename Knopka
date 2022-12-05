@@ -1,0 +1,22 @@
+<style>
+.button_1670211513382 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #eaeaea !important;
+    color: #acbcc2 !important;
+    border: 100px solid #545454 !important;
+    border-radius: 100px !important;
+    font-size: 16px !important;
+    padding: 100px 0px !important; 
+    transition: all 2.6s ease !important;
+}
+.button_1670211513382:hover{
+    text-decoration: none !important; 
+    background-color: #000000 !important;
+    color: #ffeded !important;
+    border-color: #dce9ee !important;
+}
+</style>
+<a href="https://github.com/ZhupelL" class="button_1670211513382" target="_blank">
+  Чуркам не входить
+</a>
